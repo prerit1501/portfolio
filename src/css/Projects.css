@@ -1,0 +1,16 @@
+.project {
+    height: 100vh;
+}
+.carding {
+    align-items: center;
+    height:50vh;
+    width: auto;
+    top:20vh;
+    margin:20vmin 10vmin;
+}
+.caption {
+    color: black;
+}
+.carousel-item {
+    top:30vh !important;
+}
